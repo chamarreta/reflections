@@ -21,9 +21,16 @@ change?
 	
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	One situation is when you are going to try a new experimental feature but
+	you are not sure if it will finally be included in the master version. Another
+	situation can be a translation of the same application.
 
 How do the diagrams help you visualize the branch structure?
-
+	
+	It can help watching which commits are reacheables from another, because the
+	one commit could be in one branch and the other commit in another branch.
+	
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
