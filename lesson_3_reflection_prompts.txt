@@ -22,3 +22,11 @@ What is the benefit of having a copy of the last known state of the remote store
 	The benefit is that you can merge and resolve the conflicts locally and then
 	upload the final version free of conflicts, so the collaborators can be sure
 	that you have resolve all the conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	I would collaborate using GitHub. It would be easier to collaborate because
+	more than one person can work in the same project at the same time. It would
+	be harder because may be some conflicts in the work made by different persons
+	and must exists a person who supervise all the changes before commiting them
+	into the master branch.
