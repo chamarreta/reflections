@@ -16,3 +16,9 @@ Describe the differences between forks, clones, and branches. When would you use
 	We have previously talk about branches. Are useful when you want to make some
 	experimental changes or want to have a different version of the same project
 	without affecting the master one.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	The benefit is that you can merge and resolve the conflicts locally and then
+	upload the final version free of conflicts, so the collaborators can be sure
+	that you have resolve all the conflicts.
